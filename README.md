@@ -1,4 +1,4 @@
-# VisualizationProject
+# Visualization Project
 
 HTML homepage 
   Carousel JS library
